@@ -2,7 +2,7 @@
 
 Portafolio profesional.
 
-**Live:** *Se actualizará después del deploy*
+**Live:** [milagros-legay.cofoundy.dev](https://milagros-legay.cofoundy.dev/)
 
 ## Tech Stack
 
